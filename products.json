@@ -1,0 +1,9 @@
+[
+    {
+        "Product ID":1,
+        "Product Name":"Laptop",
+        "Category":"Electronics",
+        "Price":40000.0,
+        "Stock":15
+    }
+]
